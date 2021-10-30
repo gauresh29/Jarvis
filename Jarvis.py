@@ -61,7 +61,7 @@ def sendEmail(to, content):
     server.close()
 
 if __name__ == "__main__":
-    # speak("gauresh is good boy")
+    speak("gauresh is good boy")
     wishme()
     # question = input("What is your question? ")
     # print(wikipedia.summary(question))
